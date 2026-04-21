@@ -6,7 +6,7 @@
 
 ## Key Iinsights :
 - **Identified KPis for gapping.**
-- **Improved dataset accuracy 30%.**
+- **Improved dataset accuracy by 30%.**
 
 ##
 ## Figures :
